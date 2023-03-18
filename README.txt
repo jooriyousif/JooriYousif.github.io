@@ -1,5 +1,5 @@
 
-Hi! This is the set up for my portfolio website. You can find it here: [Joori's Portfolio](https://jooriyousif.github.io/)
+Hi! This is the set up for my portfolio website. You can find it here: https://jooriyousif.github.io/
 
 
 
